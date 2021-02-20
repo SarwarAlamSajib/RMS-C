@@ -1,5 +1,5 @@
-# Rastaurant Management System
-- A restaurant management system in C programming language.
+# Rastaurant Food Ordering System
+- A restaurant food oredering system in C programming language.
 
 # Features
 - Login as customer and admin
