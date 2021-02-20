@@ -1,4 +1,4 @@
-# Rastaurant Food Ordering System
+# Restaurant Food Ordering System
 - A restaurant food oredering system in C programming language.
 
 # Features
