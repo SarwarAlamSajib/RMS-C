@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502146299 source:c:\users\user\desktop\restaurantms\main.c
+	<stdio.h>
+	<stdlib.h>
+
