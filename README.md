@@ -1,5 +1,5 @@
 # Rastaurant Management System
-- C
+- A restaurant management system in C programming language.
 
 # Features
 - Login as customer and admin
