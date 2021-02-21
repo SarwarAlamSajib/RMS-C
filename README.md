@@ -1,5 +1,6 @@
 # Restaurant Food Ordering System
 - A restaurant food oredering system in C programming language.
+- University project.
 
 # Features
 - Login as customer and admin
